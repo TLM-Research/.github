@@ -1,6 +1,6 @@
 # TLM Research
 
-**Open project exploring temporal market design for blockchain protocols, with Ethereum as the initial platform.**
+**A Research initiative exploring temporal market design for blockchain protocols, with Ethereum as the initial platform.**
 
 ## Mission
 
@@ -13,7 +13,6 @@ TLM Research advances the study of **temporal market design**—how decentralize
 * Proposer-Builder Separation (PBS & ePBS)
 * Protocol economics
 * Mechanism design
-* Distributed systems
 
 ## Repositories
 
@@ -24,12 +23,6 @@ The primary repository containing the project's vision, foundation, architecture
 ### Simulator (coming)
 
 ### Experiments (coming)
-
-##Current Focus
-
-### Framework 
-### Foundation
-### Architecture
 
 ## Current Status
 
