@@ -1,7 +1,7 @@
 # .github
 # TLM Research
 
-**Independent Research Initiative on Temporal Market Design for Decentralized Systems**
+**An independent research initiative advancing temporal market design for blockchain protocols through protocol economics and mechanism design, with Ethereum as the initial research platform.
 
 ---
 
