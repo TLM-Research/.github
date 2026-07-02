@@ -7,7 +7,7 @@
 
 ## Overview
 
-TLM Research explores how **time** can become a first-class economic dimension in decentralized systems.
+TLM Research explores how **time preference** can become a first-class economic dimension in decentralized systems.
 
 Modern blockchain protocols have significantly advanced blockspace allocation through innovations such as protocol-managed fee markets and proposer-builder separation. These mechanisms have greatly improved price discovery, market efficiency, and decentralized block construction.
 
