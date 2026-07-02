@@ -21,6 +21,16 @@ TLM Research advances the study of **temporal market design**—how decentralize
 
 The primary repository containing the project's vision, foundation, architecture, research notes, literature reviews, and future mechanism proposals.
 
+### Simulator (coming)
+
+### Experiments (coming)
+
+##Current Focus
+
+### Framework 
+### Foundation
+### Architecture
+
 ## Current Status
 
 **Stage:** Research Framework
