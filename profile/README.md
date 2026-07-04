@@ -15,7 +15,6 @@ TLM Research advances the study of **Temporal Liquidity**—the economic flexibi
 * Proposer-Builder Separation (PBS & ePBS)
 * Protocol economics
 * Mechanism design
-* Distributed systems
 
 ## Repository
 
